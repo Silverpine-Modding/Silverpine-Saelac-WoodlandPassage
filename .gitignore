@@ -1,0 +1,7 @@
+bin/
+obj/
+artifacts/
+__pycache__/
+*.user
+*.pdb
+*.log
